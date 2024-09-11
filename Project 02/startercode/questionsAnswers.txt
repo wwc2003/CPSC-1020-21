@@ -1,0 +1,148 @@
+Q: What is the state bird of Alabama? A: Yellowhammer (northern flicker)
+Q: What is the state bird of Alaska? A: Willow ptarmigan
+Q: What is the state bird of Arizona? A: Cactus wren
+Q: What is the state bird of Arkansas? A: Northern mockingbird
+Q: What is the state bird of California? A: California quail
+Q: What is the state bird of Colorado? A: Lark bunting
+Q: What is the state bird of Connecticut? A: American robin
+Q: What is the state bird of Delaware? A: Delaware Blue Hen
+Q: What is the state bird of Florida? A: Northern mockingbird
+Q: What is the state bird of Georgia? A: Brown thrasher
+Q: What is the state bird of Hawaii? A: Hawaiian goose (nēnē)
+Q: What is the state bird of Idaho? A: Mountain bluebird
+Q: What is the state bird of Illinois? A: Northern cardinal
+Q: What is the state bird of Indiana? A: Northern cardinal
+Q: What is the state bird of Iowa? A: Eastern goldfinch (American goldfinch)
+Q: What is the state bird of Kansas? A: Western meadowlark
+Q: What is the state bird of Kentucky? A: Northern cardinal
+Q: What is the state bird of Louisiana? A: Brown pelican
+Q: What is the state bird of Maine? A: Chickadee
+Q: What is the state bird of Maryland? A: Baltimore oriole
+Q: What is the state bird of Massachusetts? A: Black-capped chickadee
+Q: What is the state bird of Michigan? A: American robin
+Q: What is the state bird of Minnesota? A: Common loon
+Q: What is the state bird of Mississippi? A: Northern mockingbird
+Q: What is the state bird of Missouri? A: Eastern bluebird
+Q: What is the state bird of Montana? A: Western meadowlark
+Q: What is the state bird of Nebraska? A: Western meadowlark
+Q: What is the state bird of Nevada? A: Mountain bluebird
+Q: What is the state bird of New Hampshire? A: Purple finch
+Q: What is the state bird of New Jersey? A: Eastern goldfinch (American goldfinch)
+Q: What is the state bird of New Mexico? A: Greater roadrunner
+Q: What is the state bird of New York? A: Eastern bluebird
+Q: What is the state bird of North Carolina? A: Northern cardinal
+Q: What is the state bird of North Dakota? A: Western meadowlark
+Q: What is the state bird of Ohio? A: Northern cardinal
+Q: What is the state bird of Oklahoma? A: Scissor-tailed flycatcher
+Q: What is the state bird of Oregon? A: Western meadowlark
+Q: What is the state bird of Pennsylvania? A: None[b]
+Q: What is the state bird of Rhode Island? A: Rhode Island Red
+Q: What is the state bird of South Carolina? A: Carolina wren
+Q: What is the state bird of South Dakota? A: Ring-necked pheasant
+Q: What is the state bird of Tennessee? A: Northern mockingbird
+Q: What is the state bird of Texas? A: Northern mockingbird
+Q: What is the state bird of Utah? A: California gull
+Q: What is the state bird of Vermont? A: Hermit thrush
+Q: What is the state bird of Virginia? A: Northern cardinal
+Q: What is the state bird of Washington? A: Willow goldfinch (American goldfinch)
+Q: What is the state bird of West Virginia? A: Northern cardinal
+Q: What is the state bird of Wisconsin? A: American robin
+Q: What is the state bird of Wyoming? A: Western meadowlark
+Q: What is the capital of Alabama? A: Montgomery
+Q: What is the capital of Alaska? A: Juneau
+Q: What is the capital of Arizona? A: Phoenix
+Q: What is the capital of Arkansas? A: Little Rock
+Q: What is the capital of California? A: Sacramento
+Q: What is the capital of Colorado? A: Denver
+Q: What is the capital of Connecticut? A: Hartford
+Q: What is the capital of Delaware? A: Dover
+Q: What is the capital of Florida? A: Tallahassee
+Q: What is the capital of Georgia? A: Atlanta
+Q: What is the capital of Hawaii? A: Honolulu
+Q: What is the capital of Idaho? A: Boise
+Q: What is the capital of Illinois? A: Springfield
+Q: What is the capital of Indiana? A: Indianapolis
+Q: What is the capital of Iowa? A: Des Moines
+Q: What is the capital of Kansas? A: Topeka
+Q: What is the capital of Kentucky? A: Frankfort
+Q: What is the capital of Louisiana? A: Baton Rouge
+Q: What is the capital of Maine? A: Augusta
+Q: What is the capital of Maryland? A: Annapolis
+Q: What is the capital of Massachusetts? A: Boston
+Q: What is the capital of Michigan? A: Lansing
+Q: What is the capital of Minnesota? A: Saint Paul
+Q: What is the capital of Mississippi? A: Jackson
+Q: What is the capital of Missouri? A: Jefferson City
+Q: What is the capital of Montana? A: Helena
+Q: What is the capital of Nebraska? A: Lincoln
+Q: What is the capital of Nevada? A: Carson City
+Q: What is the capital of New Hampshire? A: Concord
+Q: What is the capital of New Jersey? A: Trenton
+Q: What is the capital of New Mexico? A: Santa Fe
+Q: What is the capital of New York? A: Albany
+Q: What is the capital of North Carolina? A: Raleigh
+Q: What is the capital of North Dakota? A: Bismarck
+Q: What is the capital of Ohio? A: Columbus
+Q: What is the capital of Oklahoma? A: Oklahoma City
+Q: What is the capital of Oregon? A: Salem
+Q: What is the capital of Pennsylvania? A: Harrisburg
+Q: What is the capital of Rhode Island? A: Providence
+Q: What is the capital of South Carolina? A: Columbia
+Q: What is the capital of South Dakota? A: Pierre
+Q: What is the capital of Tennessee? A: Nashville
+Q: What is the capital of Texas? A: Austin
+Q: What is the capital of Utah? A: Salt Lake City
+Q: What is the capital of Vermont? A: Montpelier
+Q: What is the capital of Virginia? A: Richmond
+Q: What is the capital of Washington? A: Olympia
+Q: What is the capital of West Virginia? A: Charleston
+Q: What is the capital of Wisconsin? A: Madison
+Q: What is the capital of Wyoming? A: Cheyenne
+Q: What is the highest point in Alabama? A: Cheaha Mountain
+Q: What is the highest point in Alaska? A: Denali
+Q: What is the highest point in Arizona? A: Humphreys Peak
+Q: What is the highest point in Arkansas? A: Mount Magazine
+Q: What is the highest point in California? A: Mount Whitney
+Q: What is the highest point in Colorado? A: Mount Elbert
+Q: What is the highest point in Connecticut? A: Southern slope of Mount Frissell at Massachusetts border
+Q: What is the highest point in Delaware? A: Near the Ebright Azimuth
+Q: What is the highest point in Florida? A: Britton Hill
+Q: What is the highest point in Hawaiʻi? A: Mauna Kea
+Q: What is the highest point in Idaho? A: Borah Peak
+Q: What is the highest point in Illinois? A: Charles Mound
+Q: What is the highest point in Indiana? A: Hoosier Hill
+Q: What is the highest point in Iowa? A: Hawkeye Point
+Q: What is the highest point in Kansas? A: Mount Sunflower
+Q: What is the highest point in Kentucky? A: Black Mountain
+Q: What is the highest point in Louisiana? A: Driskill Mountain
+Q: What is the highest point in Maine? A: Mount Katahdin
+Q: What is the highest point in Maryland? A: Hoye-Crest
+Q: What is the highest point in Massachusetts? A: Mount Greylock
+Q: What is the highest point in Michigan? A: Mount Arvon
+Q: What is the highest point in Minnesota? A: Eagle Mountain
+Q: What is the highest point in Mississippi? A: Woodall Mountain
+Q: What is the highest point in Missouri? A: Taum Sauk Mountain
+Q: What is the highest point in Montana? A: Granite Peak
+Q: What is the highest point in Nebraska? A: Panorama Point
+Q: What is the highest point in Nevada? A: Boundary Peak
+Q: What is the highest point in New Hampshire? A: Mount Washington
+Q: What is the highest point in New Jersey? A: High Point
+Q: What is the highest point in New Mexico? A: Wheeler Peak
+Q: What is the highest point in New York? A: Mount Marcy
+Q: What is the highest point in North Carolina? A: Mount Mitchell
+Q: What is the highest point in North Dakota? A: White Butte
+Q: What is the highest point in Ohio? A: Campbell Hill
+Q: What is the highest point in Oklahoma? A: Black Mesa
+Q: What is the highest point in Oregon? A: Mount Hood
+Q: What is the highest point in Pennsylvania? A: Mount Davis
+Q: What is the highest point in Rhode Island? A: Jerimoth Hill
+Q: What is the highest point in South Carolina? A: Sassafras Mountain
+Q: What is the highest point in South Dakota? A: Black Elk Peak
+Q: What is the highest point in Tennessee? A: Clingmans Dome
+Q: What is the highest point in Texas? A: Guadalupe Peak
+Q: What is the highest point in Utah? A: Kings Peak
+Q: What is the highest point in Vermont? A: Mount Mansfield
+Q: What is the highest point in Virginia? A: Mount Rogers
+Q: What is the highest point in West Virginia? A: Spruce Knob
+Q: What is the highest point in Wisconsin? A: Timms Hill
+Q: What is the highest point in Wyoming? A: Gannett Peak
