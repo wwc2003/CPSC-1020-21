@@ -1,0 +1,12 @@
+Input
+
+1
+.10
+20
+
+Output
+
+How much money did your account start with? $
+What interest rate ( between 0 and 1) does your account have?
+For how many years were you earning interest?
+You have a balance of $6.7275.

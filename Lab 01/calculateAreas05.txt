@@ -1,0 +1,28 @@
+
+Input
+
+1
+3
+2
+4
+3
+5 6
+4
+
+Output
+
+
+
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ): 
+Enter the length of the square's sides: 
+The area of the square is: 9
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ) :
+Enter the radius of the circle : 
+The area of the circle is: 50.24
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ) :
+Enter the length and base of the right triangle:
+The area of the right triangle is: 15
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ) :
+
+
+

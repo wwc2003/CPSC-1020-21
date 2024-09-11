@@ -1,0 +1,16 @@
+
+Input
+
+3
+2 5
+4
+
+Output
+
+
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ):
+Enter the length and base of the right triangle:
+The area of the right triangle is: 5
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ):
+
+

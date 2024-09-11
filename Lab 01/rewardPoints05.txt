@@ -1,0 +1,8 @@
+Input
+
+3
+
+Output
+
+How many rides did you complete?
+You have earned 15 points.

@@ -1,0 +1,13 @@
+
+Input
+
+2
+5
+4
+
+Output
+
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ):
+Enter the radius of the circle:
+The area of the circle is: 78.5
+Enter a shape calculate the area of (1: square , 2: circle , 3: right triangle, 4: quit ) :
