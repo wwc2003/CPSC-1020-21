@@ -1,0 +1,3 @@
+﻿  hospitalCharges.cpp
+C:\Users\Wwc20\source\repos\hospitalCharges\hospitalCharges\hospitalCharges.cpp(33,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  hospitalCharges.vcxproj -> C:\Users\Wwc20\source\repos\hospitalCharges\Debug\hospitalCharges.exe

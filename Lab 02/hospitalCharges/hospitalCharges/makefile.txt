@@ -1,0 +1,17 @@
+COMPILER = g++
+OPTIONS = -Wall
+PROGRAM = hospitalCharges.out
+
+all: hospitalCharges.out
+
+run: hospitalCharges.out
+     ./hospitalChargets.out
+     @echo "This will run hosptialCharges.out"
+
+hospitalCharges.out : hospitalCharges.cpp validateUserInput.cpp calcTotalCharges.cpp
+	g++ -Wall hospitalCharges.cpp validateUserInput.cpp calcTotalCharges.cpp -o hospitalCharges.out
+	@echo "This will compile hospitalCharges.out"
+
+clean:
+	rm hospitalCharges.out
+	@echo "This will delete hospitalCharges.out"
